@@ -12,6 +12,18 @@ knitr::opts_chunk$set(echo = TRUE)
 This is the github of BCBL's study group 1.
 
 ## Tutorials
+GitHub
+
+https://swcarpentry.github.io/git-novice/
+https://neurohackademy.org/course/version-control-with-git-github/
+
+R Markdown
+
+https://rmarkdown.rstudio.com/lesson-1.html
+
+Jupyter Notebooks
+
+https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html
 
 ```{r cars}
 summary(cars)
